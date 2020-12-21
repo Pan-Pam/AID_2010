@@ -1,0 +1,3 @@
+*.c
+built/
+abc.log
